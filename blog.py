@@ -82,7 +82,7 @@ def update_post(post_id):
 
 
 while True:
-    action = input(f"{Fore.CYAN}What would you like to do? (c){Fore.GREEN}reate{Fore.CYAN}, (l){Fore.GREEN}ist{Fore.CYAN}, (v){Fore.GREEN}iew{Fore.CYAN}, (u){Fore.GREEN}pdate{Fore.CYAN}, (d){Fore.GREEN}elete{Fore.CYAN}, or (q){Fore.GREEN}uit{Fore.CYAN}: ").lower()
+    action = input(f"{Fore.YELLOW}What would you like to do? (c){Fore.GREEN}reate{Fore.WHITE}, (l){Fore.GREEN}ist{Fore.WHITE}, (v){Fore.GREEN}iew{Fore.WHITE}, (u){Fore.GREEN}pdate{Fore.WHITE}, (d){Fore.GREEN}elete{Fore.WHITE}, or (q){Fore.GREEN}uit{Fore.WHITE}: ").lower()
 
     if action == 'c':
         title = input(f"{Fore.GREEN}Enter the post title: ")
