@@ -8,7 +8,7 @@
 #### As part of satisfying the Phase-3 Project requirements.
 
 ## Demo Video
-
+https://drive.google.com/drive/u/0/folders/1eRZfqc5U_JcF58U8zuGBR0VeWvwd_FUH
 
 ## Description
 This Blog App makes it can be used to create, update, delete, select among other operations throught the terminal. The posts are stored in a sqlite database and can be recalled using the article ID.
